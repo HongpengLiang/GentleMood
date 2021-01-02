@@ -1,7 +1,7 @@
 # GentleMood
 The project framework is preliminarily established.
 
-###Environment:
+### Environment:
 
 - IDE: IDEA CE, Visual Studio Code
 - JDK: 11.0.9
